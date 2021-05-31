@@ -1,8 +1,11 @@
-# 介紹
+# 關於
 本專案為自己常用的Minecraft Server核心的備用載點，只保留打包完畢的jar檔以供後續要開伺服器時快速取用。
 
 ## Bukkit系分支端
+
 ### Akarin
+* 關於 About
+	* Akarin is a powerful server software from the 'new dimension' .
 * 檔案頁面 File Page
 	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Akarin
 * 專案頁面 Project Page
@@ -18,7 +21,21 @@
 	* 1.16.2
 	* 1.16.5
 
+### NachoSpigot
+* 關於 About
+	*  NachoSpigot is a fork of TacoSpigot 1.8.8 that offers several enhancements to performance as well as bug fixes. 
+* 檔案頁面 File Page
+	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Nacho
+* 專案頁面 Project Page
+	* https://github.com/CobbleSword/NachoSpigot
+	* https://nacho.sculas.xyz/
+	* https://nachodev.sculas.xyz/
+* 收錄版本 Version Collect
+	* 1.8.8
+
 ### Paper
+* 關於 About
+	*  High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 * 檔案頁面 File Page
 	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Paper
 * 專案頁面 Project Page
@@ -37,6 +54,8 @@
 	* 1.16.5
 
 ### Purpur
+* 關於 About
+	* Purpur is a drop-in replacement for Paper servers designed for configurability, new fun and exciting gameplay features, and high performance built on top of Tuinity and Airplane. 
 * 檔案頁面 File Page
 	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Purpur
 * 專案頁面 Project Page
@@ -49,7 +68,19 @@
 	* 1.16.1
 	* 1.16.5
 
-### Torch (Abandoned)
+### TacoSpigot
+* 關於 About
+	* A even-higher higher performance PaperSpigot fork that adds new features.
+* 檔案頁面 File Page
+	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Taco
+* 專案頁面 Project Page
+	* https://github.com/TacoSpigot/TacoSpigot
+* 收錄版本 Version Collect
+	* 1.9.4
+
+### TorchSpigot (Abandoned)
+* 關於 About
+	*  Torch is a fork of Paper with multi-thread computing and further optimizations. We aim to be stable and fast.
 * 檔案頁面 File Page
 	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Torch
 * 專案頁面 Project Page
@@ -59,6 +90,8 @@
 	* 1.9.4
 
 ### Yatopia
+* 關於 About
+	* The Most Powerful and Feature Rich Minecraft Server Software! 
 * 檔案頁面 File Page
 	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Yatopia
 * 專案頁面 Project Page
