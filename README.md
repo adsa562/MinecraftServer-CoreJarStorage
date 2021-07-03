@@ -71,7 +71,7 @@
 * 收錄版本 Version Collect
 	* 1.8.8,1.9.4
 
-### Yatopia
+### Yatopia (Abandoned)
 * 關於 About
 	* The Most Powerful and Feature Rich Minecraft Server Software! 
 * 檔案頁面 File Page
@@ -81,7 +81,7 @@
 	* https://github.com/YatopiaMC/Yatopia
 	* https://ci.codemc.io/job/YatopiaMC/job/Yatopia/
 * 收錄版本 Version Collect
-	* 1.16.2,1.16.3,1.16.4,1.16.5
+	* 1.16.2,1.16.3,1.16.4,1.16.5,1.17(EarlyAccess)
 
 ## Forge+Bukkit端
 ### Arclight
