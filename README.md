@@ -13,13 +13,7 @@
 	* https://github.com/Akarin-project/Akarin
 	* http://ci.josephworks.net/job/Akarin/
 * 收錄版本 Version Collect
-	* 1.12.2
-	* 1.13.2
-	* 1.14.4
-	* 1.15.2
-	* 1.16.1
-	* 1.16.2
-	* 1.16.5
+	* 1.12.2,1.13.2,1.14.4,1.15.2,1.16.1,1.16.2,1.16.5
 
 ### NachoSpigot
 * 關於 About
@@ -43,15 +37,7 @@
 	* https://github.com/PaperMC/Paper
 	* https://papermc.io/ci/
 * 收錄版本 Version Collect
-	* 1.12.2
-	* 1.13.2
-	* 1.14.4
-	* 1.15.2
-	* 1.16.1
-	* 1.16.2
-	* 1.16.3
-	* 1.16.4
-	* 1.16.5
+	* 1.12.2,1.13.2,1.14.4,1.15.2,1.16.1,1.16.2,1.16.3,1.16.4,1.16.5
 
 ### Purpur
 * 關於 About
@@ -63,10 +49,7 @@
 	* https://purpur.pl3x.net/
 	* https://ci.pl3x.net/job/Purpur/
 * 收錄版本 Version Collect
-	* 1.14.4
-	* 1.15.2
-	* 1.16.1
-	* 1.16.5
+	* 1.14.4,1.15.2,1.16.1,1.16.5
 
 ### TacoSpigot
 * 關於 About
@@ -86,8 +69,7 @@
 * 專案頁面 Project Page
 	* https://github.com/TorchSpigot/Torch
 * 收錄版本 Version Collect
-	* 1.8.8
-	* 1.9.4
+	* 1.8.8,1.9.4
 
 ### Yatopia
 * 關於 About
@@ -99,19 +81,14 @@
 	* https://github.com/YatopiaMC/Yatopia
 	* https://ci.codemc.io/job/YatopiaMC/job/Yatopia/
 * 收錄版本 Version Collect
-	* 1.16.2
-	* 1.16.3
-	* 1.16.4
-	* 1.16.5
+	* 1.16.2,1.16.3,1.16.4,1.16.5
 
 ## Forge+Bukkit端
 ### Arclight
 * 專案頁面
 	* https://github.com/IzzelAliz/Arclight
 * 收錄版本
-	* 1.14.4
-	* 1.15.2
-	* 1.16.5
+	* 1.14.4,1.15.2,1.16.5
 ## Fabric+Bukkit端
 ### Cardboard
 * 專案頁面
