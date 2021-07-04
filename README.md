@@ -49,7 +49,7 @@
 	* https://purpur.pl3x.net/
 	* https://ci.pl3x.net/job/Purpur/
 * 收錄版本 Version Collect
-	* 1.14.4,1.15.2,1.16.1,1.16.5
+	* 1.14.4,1.15.2,1.16.1,1.16.5,1.17
 
 ### TacoSpigot
 * 關於 About
@@ -81,7 +81,7 @@
 	* https://github.com/YatopiaMC/Yatopia
 	* https://ci.codemc.io/job/YatopiaMC/job/Yatopia/
 * 收錄版本 Version Collect
-	* 1.16.2,1.16.3,1.16.4,1.16.5,1.17(EarlyAccess)
+	* 1.16.2,1.16.3,1.16.4,1.16.5,1.17(EOS)
 
 ## Forge+Bukkit端
 ### Arclight
@@ -96,7 +96,7 @@
 	* https://cardboardpowered.org/
 	* https://ci.codemc.io/job/IsaiahPatton/job/Cardboard/
 * 收錄版本
-	* 1.16.4
+	* 1.16.5,1.17
 
 ## 各項專案使用的許可授權
 * [Paper](https://github.com/PaperMC/Paper/blob/master/LICENSE.md)
