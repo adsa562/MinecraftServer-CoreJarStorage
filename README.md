@@ -91,11 +91,13 @@
 	* 1.14.4,1.15.2,1.16.5
 ## Fabric+Bukkit端
 ### Cardboard
-* 專案頁面
+* 檔案頁面 File Page
+	* https://github.com/adsa562/MinecraftServer-CoreJarStorage/tree/Cardboard
+* 專案頁面 Project Page
 	* https://github.com/CardboardPowered/cardboard
 	* https://cardboardpowered.org/
 	* https://ci.codemc.io/job/IsaiahPatton/job/Cardboard/
-* 收錄版本
+* 收錄版本 Version Collect
 	* 1.16.5,1.17
 
 ## 各項專案使用的許可授權
