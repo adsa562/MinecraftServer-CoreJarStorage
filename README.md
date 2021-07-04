@@ -12,3 +12,7 @@
 	* https://ci.codemc.io/job/IsaiahPatton/job/Cardboard/
 * 收錄版本 Version Collect
 	* 1.16.5,1.17
+* 授權規範 License
+```
+We inherit the dual (L)GPLv3/MIT license from Paper. See Paper's License for what code is under MIT. SrgLib is also licensed under MIT.
+``` 
